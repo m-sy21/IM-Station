@@ -11,7 +11,7 @@ les stations-service et leurs prix en temps réel.
 
 ## URL du site
 - https://laifaoui.alwaysdata.net/
--[ https://simya.alwaysdata.net/](https://simya.alwaysdata.net/)
+- https://simya.alwaysdata.net/
 
 ## Technologies
 - HTML5 / CSS3 / PHP 8
